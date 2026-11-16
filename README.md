@@ -1,6 +1,6 @@
 # EXAM TIMER — Minimalist Exam Countdown Web App
 
-A modern, responsive web application designed with a strict black-and-white minimalist aesthetic to help students track their upcoming examinations through an automated digital countdown timer.
+A modern, responsive web application with a strict black-and-white minimalist aesthetic, designed to help students track upcoming examinations through an automated digital countdown timer — because apparently, my brain needs a countdown to understand the meaning of a deadline. 💀
 
 ---
 
